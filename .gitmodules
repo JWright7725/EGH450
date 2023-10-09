@@ -1,3 +1,6 @@
 [submodule "src/spar"]
 	path = src/spar
 	url = git@github.com:JWright7725/spar.git
+[submodule "src/qutas_lab_450"]
+	path = src/qutas_lab_450
+	url = git@github.com:JWright7725/qutas_lab_450.git
