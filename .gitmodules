@@ -1,0 +1,3 @@
+[submodule "src/spar"]
+	path = src/spar
+	url = git@github.com:JWright7725/spar.git
